@@ -1,4 +1,4 @@
-# Chat-App-Like-whatsapp
+# Chat-App-Like-Whatsapp
  android real time chat app using Kotlin programming language with firebase authentication, firebase real time database, firebase storage, firebase cloud messaging , firebase cloud messaging for real time push notifications.
  
  .Google services.jons file has been deleted for security reasons.
